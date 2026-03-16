@@ -1,3 +1,4 @@
+rks_2026$ cat .github/workflows/*.yml
 name: CI
 
 on:
