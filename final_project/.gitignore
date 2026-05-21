@@ -1,0 +1,10 @@
+.env
+config.yaml
+__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+.coverage
+coverage_html/
+.venv/
+venv/
